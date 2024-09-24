@@ -29,11 +29,11 @@ body {
   }
   #mensagem3 {
     font-size: 24px;
-    color: rgb(9, 255, 0);
+    color: rgb(0, 255, 0);
   }
   #mensagem4 {
     font-size: 24px;
-    color: rgb(4, 0, 255);
+    color: rgb(0, 0, 255);
   }
   
   button {
