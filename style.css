@@ -1,54 +1,56 @@
+@import url(https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Noto+Sans+SC:wght@100..900&display=swap);
+
 body {
-    background-color: #f4f4f4;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-image: url(./img/HTML.png);
   }
   
   h1 {
-    color: #333;
+    color: #000000;
     text-align: center;
   }
   
   .container {
     text-align: center;
     padding: 10px;
-    background-color: #fff;
+    background-color: #ffffff70;
   }
   
   .mensagem1 {
     font-size: 18px;
-    color: #555;
+    color: #000000;
   }
   
   #mensagem2 {
     font-size: 24px;
-    color: red;
+    color: rgb(255, 0, 0);
   }
   #mensagem3 {
     font-size: 24px;
-    color: red;
+    color: rgb(9, 255, 0);
   }
   #mensagem4 {
     font-size: 24px;
-    color: red;
+    color: rgb(4, 0, 255);
   }
   
   button {
     padding: 20px;
     font-size: 26px;
     cursor: pointer;
-    background-color: #8a05be;
+    background-color: #0555be;
     color: #fff;
     border-radius: 5px;
   }
   
   button:hover {
-    background-color: #7a02a4;
+    background-color: #0248a4;
   }
   
   button:active {
-    background-color: #6a0094;
+    background-color: #0a0094;
   }
   
   footer {
